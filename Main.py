@@ -1,1 +1,1 @@
-print("tout le monde aime les chairlifts")
+print("Marcher c'est bon pour la santé")
